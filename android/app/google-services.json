@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589198915621",
+    "project_id": "galley-alfian",
+    "storage_bucket": "galley-alfian.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589198915621:android:5d3869e687ba40c818a7cc",
+        "android_client_info": {
+          "package_name": "com.example.galeri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNZpHXcgBQ-PyeTsGQMeYOI9JV5o-sbMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
